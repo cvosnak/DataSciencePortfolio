@@ -12,8 +12,8 @@ Libraries/Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Big Data: Hadoop, Hive, Yarn, HBase, Kafka, Solr, Nifi  
 
 ## Projects
-[Exam Score Factors](https://github.com/cvosnak/DataSciencePortfolio/tree/main/Project%201)   
-- Information  
+### [Exam Score Factors](https://github.com/cvosnak/DataSciencePortfolio/tree/main/Project%201)   
+  - Information  
 Fraud Detection  
 *3rd Project from DSC680*  
 Weather API  
