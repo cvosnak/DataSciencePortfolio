@@ -14,11 +14,11 @@ Big Data: Hadoop, Hive, Yarn, HBase, Kafka, Solr, Nifi
 ## Projects
 ### [Exam Score Factors](https://github.com/cvosnak/DataSciencePortfolio/tree/main/Project%201)   
   - Information  
-Fraud Detection  
-*3rd Project from DSC680*  
-Weather API  
-Hotel Room Demand  
-Grammy Data  
-Employee Retention  
-Understanding Power BI - Childcare Data  
-Big Data  
+### Fraud Detection  
+### *3rd Project from DSC680*  
+### Weather API  
+### Hotel Room Demand  
+### Grammy Data  
+### Employee Retention  
+### Understanding Power BI - Childcare Data  
+### Big Data  
