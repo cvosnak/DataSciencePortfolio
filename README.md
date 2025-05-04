@@ -1,4 +1,4 @@
-# DataSciencePortfolio
+# Data Science Portfolio
 ## Education
 M.S Data Science | Bellevue University (December 2023 - May 2025)
 
