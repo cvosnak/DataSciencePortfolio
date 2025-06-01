@@ -12,13 +12,14 @@ Libraries/Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Big Data: Hadoop, Hive, Yarn, HBase, Kafka, Solr, Nifi  
 
 ## Projects
-### Exam Score Factors
-  - Information  
-### Fraud Detection  
-### *3rd Project from DSC680*  
-### Weather API  
+### Big Data Pipeline
+  - Developed an end-to-end big data pipeline integrating Apache NiFi, HDFS, Hive, and Spark. The pipeline ingested raw data, performed transformations, and enabled real-time querying and analysis, demonstrating scalable data architecture for high-volume data processing.
+### Customer Churn Predictive Analysis
+### Factors that Influence Exam Scores
+### Health Impact Predictive Analysis
 ### Hotel Room Demand  
-### Grammy Data  
-### Employee Retention  
-### Understanding Power BI - Childcare Data  
-### Big Data  
+### Improving Employee Retention Rates  
+### Real Time Fraud Detection   
+### Using SQL to Analyze Grammy Award Datasets
+### Visualizing Childcare Data with Power BI
+### Weather API
